@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+.env
+.env.*
+
+models/
+outputs/
+
+data/raw/*.csv
+
+.DS_Store
+Thumbs.db
+freight-rate-ml-assessment.pdf
