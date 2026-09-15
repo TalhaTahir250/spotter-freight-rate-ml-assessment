@@ -15,3 +15,11 @@ data/raw/*.csv
 .DS_Store
 Thumbs.db
 freight-rate-ml-assessment.pdf
+
+# Unused project scaffolding
+notebooks/02_modeling_validation.ipynb
+notebooks/03_final_model_analysis.ipynb
+scripts/
+src/config.py
+src/split.py
+src/utils.py
